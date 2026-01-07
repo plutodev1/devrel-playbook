@@ -82,6 +82,18 @@ My DevRel experience includes:
 
 This repo reflects that lived experience.
 
+## 📌 Real-World Context
+This playbook is informed by hands-on DevRel work, including:
+
+- Running developer workshops and campus programs
+- Supporting builders through documentation, GitHub, and live sessions
+- Leading community-driven initiatives such as **ChainConnectNG**
+- Working closely with early-stage builders and students
+- Collaborating with ecosystem ambassadors and teams
+
+Detailed case studies (including ChainConnectNG) will be added over time as the playbook evolves.
+
+
 ---
 
 ## 🤝 Contributions

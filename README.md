@@ -2,7 +2,7 @@
 
 This repository is a **practical DevRel playbook** based on real execution — workshops, community programs, developer support, and ecosystem work.
 
-No fluff. No theory-only takes.  
+ No theory-only takes.  
 Just what actually works when doing Developer Relations.
 
 ---
